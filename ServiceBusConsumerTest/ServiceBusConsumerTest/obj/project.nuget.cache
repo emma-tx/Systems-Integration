@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtYnq/JkkkzYmmKipWEYAjUH6f/F9OQmRJJvvJauadpbjtT2lXnU+BkUCtbG/XLiaj72X1WLFmzVBPvyRDPj5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mjohnso4\\OneDrive - University of South Wales\\Documents\\LocalRespositories\\Systems-Integration\\ServiceBusConsumerTest\\ServiceBusConsumerTest\\ServiceBusConsumerTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\azure.messaging.servicebus\\7.11.0-beta.1\\azure.messaging.servicebus.7.11.0-beta.1.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\azuremessaging\\1.0.0\\azuremessaging.1.0.0.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\common.logging\\2.2.0\\common.logging.2.2.0.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\common.logging.core\\2.2.0\\common.logging.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\microsoft.azure.amqp\\2.5.10\\microsoft.azure.amqp.2.5.10.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\microsoft.windowsazure.configurationmanager\\2.0.3\\microsoft.windowsazure.configurationmanager.2.0.3.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\newtonsoft.json\\6.0.3\\newtonsoft.json.6.0.3.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\mjohnso4\\.nuget\\packages\\windowsazure.servicebus\\2.3.4\\windowsazure.servicebus.2.3.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AzureMessaging 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AzureMessaging",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Common.Logging 2.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Common.Logging",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Common.Logging.Core 2.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Common.Logging.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.WindowsAzure.ConfigurationManager 2.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.WindowsAzure.ConfigurationManager",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 6.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsAzure.ServiceBus 2.3.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsAzure.ServiceBus",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
